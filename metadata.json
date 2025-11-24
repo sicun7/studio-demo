@@ -1,0 +1,5 @@
+{
+  "name": "Google AI Studio Clone",
+  "description": "A high-fidelity reproduction of the Google AI Studio dashboard interface using React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
